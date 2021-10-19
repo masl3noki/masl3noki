@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masl3noki
 - 👀 I’m interested in creation math models of physical phenomena & programming them
-- 🌱 I’m currently learning C/C++, UNIX OS, Maya, Unity3D
+- 🌱 I’m currently learning C/C++, UNIX OS, Maya, Inventor
 - 💞️ I’m looking to collaborate on project of volumetric clouds simulation
 - 📫 How to reach me ...
 
