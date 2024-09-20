@@ -16,10 +16,14 @@ Student at MIPT, DASR.
 
 **Machine learning frameworks and libraries**
 <br/>
-![SKLearn](https://img.shields.io/badge/SKLearn-blue?style=flat-square&logo=scikit-learn&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fscikit-learn%2Fscikit-learn)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=flat-square&logo=numpy&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fnumpy%2Fnumpy)
 ![SciPy](https://img.shields.io/badge/SciPy-blue?style=flat-square&logo=scipy&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fscipy%2Fscipy)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fpandas-dev%2Fpandas%2F)
+
+![SKLearn](https://img.shields.io/badge/SKLearn-blue?style=flat-square&logo=scikit-learn&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fscikit-learn%2Fscikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-brightgreen?style=flat-square&logo=https%3A%2F%2Fgithub.com%2Fmasl3noki%2Fmasl3noki%2Fblob%2Fmain%2F1726847260259.png%3Fraw%3Dtrue&logoColor=%23BFC3CA&logoSize=auto&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftransformers)
+![CatBoost](https://img.shields.io/badge/CatBoost-brightgreen?style=flat-square&logo=https%3A%2F%2Fgithub.com%2Fmasl3noki%2Fmasl3noki%2Fblob%2Fmain%2F1726847260259.png%3Fraw%3Dtrue&logoColor=%23BFC3CA&logoSize=auto&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftransformers)
+![LightGBM](https://img.shields.io/badge/LightGBM-brightgreen?style=flat-square&logo=https%3A%2F%2Fgithub.com%2Fmasl3noki%2Fmasl3noki%2Fblob%2Fmain%2F1726847260259.png%3Fraw%3Dtrue&logoColor=%23BFC3CA&logoSize=auto&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftransformers)
 
 
 **Deep learning frameworks and libraries**
