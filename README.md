@@ -16,11 +16,16 @@ Student at MIPT, DASR.
 
 **Machine learning frameworks and libraries**
 <br/>
-![Pytorch](https://img.shields.io/badge/PyTorch-blue?style=flat-square&logo=pytorch&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fpytorch%2Fpytorch)
 ![SKLearn](https://img.shields.io/badge/SKLearn-blue?style=flat-square&logo=scikit-learn&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fscikit-learn%2Fscikit-learn)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=flat-square&logo=numpy&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fnumpy%2Fnumpy)
 ![SciPy](https://img.shields.io/badge/SciPy-blue?style=flat-square&logo=scipy&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fscipy%2Fscipy)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fpandas-dev%2Fpandas%2F)
+
+
+**Deep learning frameworks and libraries**
+<br/>
+![Pytorch](https://img.shields.io/badge/PyTorch-blue?style=flat-square&logo=pytorch&logoColor=%23BFC3CA&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fpytorch%2Fpytorch)
+![Transformers](https://img.shields.io/badge/Transformers-brightgreen?style=flat-square&logo=huggingface&logoColor=%23BFC3CA&logoSize=auto&labelColor=%231E3E87&color=%23323437&link=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftransformers)
 
 **Visualization libraries**
 <br/>
